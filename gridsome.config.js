@@ -6,8 +6,8 @@ module.exports = {
   Your feline collar is your key to unveiling your adopted breed.`,
   siteUrl: process.env.FRONTEND_URI,
   icon: {
-    favicon: './src/favicon.png',
-    touchicon: './src/favicon.png',
+    favicon: './src/logo.jpg',
+    touchicon: './src/logo.jpg',
   },
   css: {
     loaderOptions: {
