@@ -64,10 +64,6 @@ export default {
           label: 'FAQ',
           link: '/faq',
         },
-        {
-          label: 'Team',
-          link: '/team',
-        },
       ],
       toggled: false,
       toggleSearch: false,
