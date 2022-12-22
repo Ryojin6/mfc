@@ -4,61 +4,58 @@
       <AtomInner>
         <MoleculeTitle title="Characters" tag="h1" class="-mb-12 text-white" />
         <OrganismTwoColumn
-          subtitle="エージェンシー "
-          title="RESURĀ WEB3 AGENCY"
-          description="Resurā is one of the first Solana web3 agencies. 
-          We plan to work with numerous projects on the Solana blockchain,
-           and with the Resurā teams connections we will be able to provide 
-           value to starting projects that need help in any way. Missing developers,
-            artists, advisors, brand experts, marketing? We got it all. "
+          subtitle="Mecha"
+          title="Experimented"
+          description="The experimented subjects are mechanically enhanced with titanium 
+          material. They are powered by nuclear power reactors that shoots off a gas-green fire. 
+"
           image="/10.png"
         />
         <OrganismTwoColumn
-          subtitle="箱"
-          title=" RESURĀ HAKO"
-          description="We are here to change the narrative. We’re not doing some typical NFT merch. 
-          A special RESURĀ HAKO will be a tangible relic for the first-ever Resurā season."
+          subtitle="Virus"
+          title="Molded"
+          description="These subjects have been contaminated by the ERX-220 virus. Scientist made a 
+          serum that was meant to cure rabies, but ended up mutating the serum by mixture of 
+          nuclear waste. 
+"
           image="/15.png"
           reverse
         />
         <OrganismTwoColumn
-          subtitle="画集"
-          title=" RESURĀ ART BOOK"
-          description="Resurā Art Book will be assembled by the Resurā community members and made
-           and sent out by the Resurā team. Each selected community member will get to talk 
-           one-on-one with our talented artist and will get to choose exactly how he wants
-            his Resurā NFT to be portrayed in the Art Book."
+          subtitle="Nuclear"
+          title="Engine"
+          description="The feline subjects used as engines are powerful machines that are powered 
+          by nuclear reactors. They still keep parts of their original flesh, as some mechanically 
+          enhanced bodyparts, these creatures are not in the right state of mind, as they are mind
+           controlled by a host.
+"
           image="/11.png"
         />
         <OrganismTwoColumn
-          subtitle="エアドロップ"
-          title=" CUSTOM BANNER AIRDROP"
-          description="We think that great art is still in the top 3 factors for a successful 
-          NFT project. Twitter is the biggest medium for NFT SOL space, and we don’t want to settle 
-          for mediocrity. A good-looking profile picture is not enough. Each holder will receive
-          their Twitter banner airdrop uniquely designed based on their Resurā partition. 
-          This banner will perfectly match with your Resurā NFT profile picture, to make your 
-          web3 profile complete."
+          subtitle="Lava"
+          title="Molten"
+          description="These feline subjects have been exposed to nuclear waste, but in another
+           environment with intense heat and weather conditions. The subjects affected by this 
+           serum have been transformed to creatures that produce and expose intese heat, and
+            molten lava. 
+"
           image="/12.png"
           reverse
         />
         <OrganismTwoColumn
-          subtitle="置物"
-          title=" RESURĀ 3D"
-          description="Resurā is the experimental point of our journey. Resurā team has been
-           experimenting with 3D tangible figures, resurā weapons and many more! Let yourself
-            be surprised."
+          subtitle="Death"
+          title="Undead"
+          description="The undead felines are subjects that have gone through the process of the
+           PTO-771 treatment after death. They have been reanmiated and zombified, under a
+            trance and in control by any host. Very hostile, interact with caution.
+"
           image="/13.png"
         />
         <OrganismTwoColumn
-          subtitle="エアドロップ"
-          title=" CUSTOM BANNER AIRDROP"
-          description="We think that great art is still in the top 3 factors for a successful 
-          NFT project. Twitter is the biggest medium for NFT SOL space, and we don’t want to settle 
-          for mediocrity. A good-looking profile picture is not enough. Each holder will receive
-          their Twitter banner airdrop uniquely designed based on their Resurā partition. 
-          This banner will perfectly match with your Resurā NFT profile picture, to make your 
-          web3 profile complete."
+          subtitle="Quantum"
+          title="Dimension"
+          description="There are few felines that have been subjects of quantum mechanics, and have extraordinary enhanced abilities. These abilities range from telekenisis, shape shift, cell manipulation and mind control. These felines that are affected by this serum are a danger, and should absolutely be avoided at all times. Grade X level threat.
+"
           image="/14.png"
           reverse
         />

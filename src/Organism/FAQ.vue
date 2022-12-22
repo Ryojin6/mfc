@@ -27,7 +27,8 @@ export default {
       faq: [
         {
           title: 'How many MFC are there?',
-          description: `There are currently 10000 MFC`,
+          description: `There are currently 10 000 hazardous mutant felines roaming the universe.
+`,
         },
         {
           title: 'What’s the release date?',
@@ -39,12 +40,12 @@ export default {
         },
         {
           title: 'What blockchain is MFC on?',
-          description: `Resurā is built on the Eth Blockchain`,
+          description: `MFC is built on the Eth Blockchain`,
         },
 
         {
           title: 'Where can I contact the team?',
-          description: `You can contact us anytime in our twitter, see you there! `,
+          description: `You can contact us anytime in our twitter @MutantFelines`,
         },
       ],
     };

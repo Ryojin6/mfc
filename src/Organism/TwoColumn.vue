@@ -15,19 +15,14 @@
           v-if="subtitle"
           class="textSmall pb-2 font-dela font-bold uppercase text-white"
         >
-          Lorem
+          {{ subtitle }}
         </h2>
         <h3 class="textXLarge font-bold uppercase text-r-charcoal">
-          Lorem ipsum
+          {{ title }}
         </h3>
         <div
           class="textSmall prose-white prose pt-6 !text-white"
-          v-html="
-            `Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-        aliquid ad deleniti officia error, assumenda harum eos inventore
-        aspernatur velit, sequi, commodi quae sit ullam necessitatibus ipsam
-        blanditiis dolorum vero!`
-          "
+          v-html="description"
         />
       </div>
     </div>
