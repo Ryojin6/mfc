@@ -54,7 +54,10 @@
         <OrganismTwoColumn
           subtitle="Quantum"
           title="Dimension"
-          description="There are few felines that have been subjects of quantum mechanics, and have extraordinary enhanced abilities. These abilities range from telekenisis, shape shift, cell manipulation and mind control. These felines that are affected by this serum are a danger, and should absolutely be avoided at all times. Grade X level threat.
+          description="There are few felines that have been subjects of quantum mechanics, and
+           have extraordinary enhanced abilities. These abilities range from telekenisis, shape
+            shift, cell manipulation and mind control. These felines that are affected by this 
+            serum are a danger, and should absolutely be avoided at all times. Grade X level threat.
 "
           image="/14.png"
           reverse

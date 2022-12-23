@@ -20,7 +20,14 @@
           link="https://twitter.com/MutantFelines"
           class="hidden text-white hover:text-r-pink scrolled:text-r-pink md:block"
         />
-
+        <AtomIconEtherscan
+          link="https://etherscan.io/address/0xb172483b561a1bfaa4fcba6590c88ebcda3e80d5"
+          class="w-8 hover:text-white"
+        />
+        <AtomIconOpensea
+          link="https://opensea.io/collection/mutant-feline-collars-official"
+          class="w-8 hover:text-white"
+        />
         <!-- <AtomPlainLink
           to="#form"
           class="g:px-12 scrolled:scrollHover custom-transition inline-block whitespace-nowrap rounded-3xl bg-white px-8 py-2 text-sm uppercase text-white hover:bg- hover:text-white scrolled:bg-r-pink lg:py-3"
